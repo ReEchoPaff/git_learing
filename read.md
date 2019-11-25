@@ -18,4 +18,4 @@ init
 rebase
 
 
-拉取git远程分支，并在本地修改
+拉取git远程分支，并在本地修  and so on
