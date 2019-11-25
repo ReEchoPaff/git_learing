@@ -19,3 +19,4 @@ ooo
 
 stash test1
 stash test2
+stash test3
